@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <show_in_cms>false</show_in_cms>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>erwinel_da</sys_created_by>
+        <sys_created_on>2019-09-30 18:10:32</sys_created_on>
+        <sys_id>647fd8dc1b1c4010cc628515ec4bcb18</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Multimedia Service Requests</sys_name>
+        <sys_package display_value="Multi-Media Service Requests" source="x_44813_media_svcs">195f1c581b184010cc628515ec4bcb49</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Multi-Media Service Requests">195f1c581b184010cc628515ec4bcb49</sys_scope>
+        <sys_update_name>sc_category_647fd8dc1b1c4010cc628515ec4bcb18</sys_update_name>
+        <sys_updated_by>erwinel_da</sys_updated_by>
+        <sys_updated_on>2019-09-30 18:10:32</sys_updated_on>
+        <title>Multimedia Service Requests</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=647fd8dc1b1c4010cc628515ec4bcb18"/>
+</record_update>

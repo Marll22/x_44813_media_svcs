@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Multimedia Editing">13a6289c1b5c4010cc628515ec4bcbc9</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>erwinel_da</sys_created_by>
+        <sys_created_on>2019-09-30 18:44:16</sys_created_on>
+        <sys_id>c64720dc1b5c4010cc628515ec4bcbc2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Multimedia Editing</sys_name>
+        <sys_package display_value="Multi-Media Service Requests" source="x_44813_media_svcs">195f1c581b184010cc628515ec4bcb49</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Multi-Media Service Requests">195f1c581b184010cc628515ec4bcb49</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_c64720dc1b5c4010cc628515ec4bcbc2</sys_update_name>
+        <sys_updated_by>erwinel_da</sys_updated_by>
+        <sys_updated_on>2019-09-30 18:44:16</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
